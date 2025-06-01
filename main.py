@@ -7,3 +7,5 @@ if __name__ == "__main__":
     result = obj.get_pan_details()
     print(result)
 
+def get_add():
+    pass
