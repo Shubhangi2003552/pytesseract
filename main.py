@@ -9,5 +9,4 @@ if __name__ == "__main__":
 
 def get_add():
     pass
-def get_sub():
-    pass
+
